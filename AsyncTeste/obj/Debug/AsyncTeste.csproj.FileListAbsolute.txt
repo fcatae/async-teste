@@ -1,0 +1,8 @@
+C:\Users\fcatae\Desktop\AsyncTeste\AsyncTeste\bin\Debug\AsyncTeste.exe.config
+C:\Users\fcatae\Desktop\AsyncTeste\AsyncTeste\bin\Debug\AsyncTeste.exe
+C:\Users\fcatae\Desktop\AsyncTeste\AsyncTeste\bin\Debug\AsyncTeste.pdb
+C:\Users\fcatae\Desktop\AsyncTeste\AsyncTeste\obj\Debug\AsyncTeste.csprojResolveAssemblyReference.cache
+C:\Users\fcatae\Desktop\AsyncTeste\AsyncTeste\obj\Debug\AsyncTeste.exe
+C:\Users\fcatae\Desktop\AsyncTeste\AsyncTeste\obj\Debug\AsyncTeste.pdb
+C:\Users\fcatae\Desktop\AsyncTeste\AsyncTeste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fcatae\Desktop\AsyncTeste\AsyncTeste\bin\Debug\Newtonsoft.Json.xml
